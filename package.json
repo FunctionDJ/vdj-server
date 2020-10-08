@@ -1,0 +1,31 @@
+{
+  "name": "vdj-server",
+  "scripts": {
+    "start": "npx ts-node src/main.ts",
+    "watch": "nodemon"
+  },
+  "author": {
+    "name": "Function / waffeln / Roman Aßmann",
+    "email": "sinusstudios+vdj-server@gmail.com",
+    "url": "https://github.com/waffln"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.11.2",
+    "@types/node-fetch": "^2.5.7",
+    "@types/socket.io": "^2.1.11",
+    "@types/xml2js": "^0.4.5",
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "fuse.js": "^6.4.1",
+    "icy": "^2.1.0",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1",
+    "os2l": "^1.0.3",
+    "socket.io": "^2.3.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3",
+    "xml2js": "^0.4.23"
+  }
+}

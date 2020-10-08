@@ -1,0 +1,3 @@
+@echo OFF
+echo BAT: Starting...
+.\bin\icecast.exe -c .\icecast.xml

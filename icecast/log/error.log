@@ -1,0 +1,653 @@
+[2020-09-30  14:25:02] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  14:25:02] INFO yp/yp.c YP update thread started
+[2020-09-30  14:25:02] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  14:25:02] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  14:25:03] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-09-30  14:25:04] INFO admin/admin.c Bad or missing password on admin command request (command: )
+[2020-09-30  14:25:08] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  14:27:27] INFO connection/connection.c Source logging in at mountpoint "/mount.mp3" from 127.0.0.1
+[2020-09-30  14:27:27] WARN connection/connection.c OS doesn't support case insenestive substring checks...
+[2020-09-30  14:27:27] INFO format-vorbis/format_vorbis.c seen initial vorbis header
+[2020-09-30  14:27:27] INFO source/source.c listener count on /mount.mp3 now 0
+[2020-09-30  14:27:38] WARN source/source.c Disconnecting source due to socket timeout
+[2020-09-30  14:27:38] INFO source/source.c Source from 127.0.0.1 at "/mount.mp3" exiting
+[2020-09-30  14:27:38] EROR refbuf/refbuf.c next not null
+[2020-09-30  16:42:09] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  16:42:09] INFO yp/yp.c YP update thread started
+[2020-09-30  16:42:09] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  16:44:51] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  16:44:51] INFO yp/yp.c YP update thread started
+[2020-09-30  16:44:52] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  16:45:07] WARN xslt/xslt.c Error checking for stylesheet file "./web/status.xsl": No such file or directory
+[2020-09-30  16:45:07] EROR xslt/xslt.c problem reading stylesheet "./web/status.xsl"
+[2020-09-30  16:45:07] INFO fserve/fserve.c checking for file /favicon.ico (./web/favicon.ico)
+[2020-09-30  16:45:07] WARN fserve/fserve.c req for file "./web/favicon.ico" No such file or directory
+[2020-09-30  16:45:22] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  16:45:22] INFO yp/yp.c YP update thread started
+[2020-09-30  16:45:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  16:45:27] INFO fserve/fserve.c checking for file /style.css (./icecast/web/style.css)
+[2020-09-30  16:45:27] INFO fserve/fserve.c checking for file /icecast.png (./icecast/web/icecast.png)
+[2020-09-30  16:46:43] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  16:46:43] INFO yp/yp.c YP update thread started
+[2020-09-30  16:46:44] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  16:48:02] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  16:48:02] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-09-30  16:48:03] INFO admin/admin.c Bad or missing password on admin command request (command: )
+[2020-09-30  16:48:06] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  16:48:07] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  17:10:44] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:10:44] INFO yp/yp.c YP update thread started
+[2020-09-30  17:10:44] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:10:47] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  17:10:47] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  17:10:47] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:10:47] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:10:47] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:10:47] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:10:47] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  17:10:52] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  17:10:52] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  17:20:09] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:20:09] INFO yp/yp.c YP update thread started
+[2020-09-30  17:20:09] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:20:24] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  17:20:24] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-09-30  17:20:29] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  17:20:29] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  17:20:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:20:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:20:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:20:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:20:29] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  17:21:58] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  17:21:58] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  17:38:51] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:38:51] INFO yp/yp.c YP update thread started
+[2020-09-30  17:38:51] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:39:10] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:39:10] INFO yp/yp.c YP update thread started
+[2020-09-30  17:39:11] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:39:39] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:39:39] INFO yp/yp.c YP update thread started
+[2020-09-30  17:39:39] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:39:54] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:39:54] INFO yp/yp.c YP update thread started
+[2020-09-30  17:39:54] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:45:06] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:45:06] INFO yp/yp.c YP update thread started
+[2020-09-30  17:45:07] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:45:25] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:45:25] INFO yp/yp.c YP update thread started
+[2020-09-30  17:45:26] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:45:43] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:45:43] INFO yp/yp.c YP update thread started
+[2020-09-30  17:45:43] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:45:56] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:45:56] INFO yp/yp.c YP update thread started
+[2020-09-30  17:45:57] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:46:13] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:46:13] INFO yp/yp.c YP update thread started
+[2020-09-30  17:46:14] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:47:23] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:47:23] INFO yp/yp.c YP update thread started
+[2020-09-30  17:47:23] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:49:53] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  17:49:53] INFO yp/yp.c YP update thread started
+[2020-09-30  17:49:53] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  17:50:01] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  17:50:01] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-09-30  17:50:14] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  17:50:14] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  17:50:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:50:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:50:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:50:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  17:50:14] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  17:50:18] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  17:50:18] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  19:48:34] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:48:34] INFO yp/yp.c YP update thread started
+[2020-09-30  19:48:35] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:48:58] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:48:58] INFO yp/yp.c YP update thread started
+[2020-09-30  19:48:58] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:49:19] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:49:19] INFO yp/yp.c YP update thread started
+[2020-09-30  19:49:19] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:50:19] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:50:19] INFO yp/yp.c YP update thread started
+[2020-09-30  19:50:20] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:50:38] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:50:38] INFO yp/yp.c YP update thread started
+[2020-09-30  19:50:38] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:50:56] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:50:56] INFO yp/yp.c YP update thread started
+[2020-09-30  19:50:56] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:56:16] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:56:16] INFO yp/yp.c YP update thread started
+[2020-09-30  19:56:16] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:56:17] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  19:56:17] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  19:57:12] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  19:57:12] INFO yp/yp.c YP update thread started
+[2020-09-30  19:57:12] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  19:57:12] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  19:57:12] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  19:57:26] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  19:57:26] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  19:57:26] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  19:57:26] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  19:57:26] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  19:57:26] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  19:57:27] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  19:57:33] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  19:57:33] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  19:57:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  19:57:53] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-09-30  19:57:53] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-09-30  19:57:53] INFO fserve/fserve.c checking for file /tunein.png (./web/tunein.png)
+[2020-09-30  19:58:13] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  19:58:27] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  19:59:54] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  19:59:56] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:00:23] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  20:00:25] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:01:02] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:01:02] INFO yp/yp.c YP update thread started
+[2020-09-30  20:01:02] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:01:02] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  20:01:02] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  20:01:02] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:01:02] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:01:02] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:02] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:02] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:02] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:02] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:01:02] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  20:01:02] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:02] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:01:10] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  20:01:10] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  20:01:13] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:01:13] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:01:13] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:13] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:13] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:13] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:13] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:01:13] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  20:01:13] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:13] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:01:17] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  20:01:19] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:01:22] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  20:01:25] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  20:01:25] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  20:01:25] INFO source/source.c 1 active listeners on /source.mp3 released
+[2020-09-30  20:01:33] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:01:33] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:01:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:33] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:01:33] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  20:01:34] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:01:34] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:02:18] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:02:18] INFO yp/yp.c YP update thread started
+[2020-09-30  20:02:19] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:02:19] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  20:02:19] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  20:02:20] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:02:20] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:02:20] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:02:20] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:02:20] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:02:20] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:02:20] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:02:20] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  20:02:20] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:02:20] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:03:28] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:03:28] INFO yp/yp.c YP update thread started
+[2020-09-30  20:03:29] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:03:29] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  20:03:29] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  20:03:38] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:03:38] INFO yp/yp.c YP update thread started
+[2020-09-30  20:03:38] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:03:38] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  20:03:38] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  20:03:45] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:03:45] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:03:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:45] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:03:45] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-09-30  20:03:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:46] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:03:51] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:03:51] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - Music Club"
+[2020-09-30  20:03:51] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:03:59] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:03:59] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - No Problem"
+[2020-09-30  20:03:59] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:04:29] INFO yp/yp.c YP update thread started
+[2020-09-30  20:04:29] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:04:29] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:04:29] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:04:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:04:29] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - No Problem"
+[2020-09-30  20:04:29] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:29] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:04:29] INFO source/source.c listener count on /source.mp3 now 1
+[2020-09-30  20:04:42] INFO main/main.c Icecast 2.4.4 server started
+[2020-09-30  20:04:42] INFO yp/yp.c YP update thread started
+[2020-09-30  20:04:43] INFO connection/connection.c No SSL capability on any configured ports
+[2020-09-30  20:04:43] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-09-30  20:04:43] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-09-30  20:04:45] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:04:45] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:04:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:45] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:04:45] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - No Problem"
+[2020-09-30  20:04:45] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:45] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:04:49] INFO source/source.c End of Stream /source.mp3
+[2020-09-30  20:04:49] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-09-30  20:04:50] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-09-30  20:04:50] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-09-30  20:04:50] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:50] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:50] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:50] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:50] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:04:50] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - No Problem"
+[2020-09-30  20:04:50] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-09-30  20:04:50] INFO source/source.c listener count on /source.mp3 now 0
+[2020-09-30  20:05:01] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-09-30  20:05:01] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Sigma - Nobody To Love (Sigma's Future Jungle Mix)"
+[2020-09-30  20:05:01] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:48:51] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  12:48:51] INFO yp/yp.c YP update thread started
+[2020-10-03  12:48:51] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  12:48:51] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-10-03  12:48:51] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-10-03  12:49:01] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  12:49:01] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  12:49:01] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:01] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:01] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:01] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:02] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  12:49:10] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  12:49:10] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status/Kabaka Pyramid/Ms. Dynamite - Murder Music (SHY FX Remix)"
+[2020-10-03  12:49:10] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:57] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  12:49:57] INFO yp/yp.c YP update thread started
+[2020-10-03  12:49:57] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  12:49:57] INFO fserve/fserve.c checking for file /source.mp3 (./web/source.mp3)
+[2020-10-03  12:49:57] WARN fserve/fserve.c req for file "./web/source.mp3" No such file or directory
+[2020-10-03  12:49:57] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  12:49:57] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  12:49:57] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:57] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:57] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:57] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:57] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  12:49:57] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status/Kabaka Pyramid/Ms. Dynamite - Murder Music (SHY FX Remix)"
+[2020-10-03  12:49:58] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:49:58] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  12:50:04] INFO source/source.c End of Stream /source.mp3
+[2020-10-03  12:50:04] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-10-03  12:50:06] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  12:50:06] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  12:50:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:06] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  12:50:06] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status/Kabaka Pyramid/Ms. Dynamite - Murder Music (SHY FX Remix)"
+[2020-10-03  12:50:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:06] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  12:50:17] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  12:50:17] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  12:50:17] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  12:50:33] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-10-03  12:50:33] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-10-03  12:50:33] INFO fserve/fserve.c checking for file /tunein.png (./web/tunein.png)
+[2020-10-03  12:50:33] INFO fserve/fserve.c checking for file /favicon.ico (./web/favicon.ico)
+[2020-10-03  12:50:33] WARN fserve/fserve.c req for file "./web/favicon.ico" No such file or directory
+[2020-10-03  12:51:01] INFO source/source.c listener count on /source.mp3 now 1
+[2020-10-03  12:51:25] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  12:51:44] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2020-10-03  12:51:44] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2020-10-03  12:51:44] INFO fserve/fserve.c checking for file /tunein.png (./web/tunein.png)
+[2020-10-03  12:58:49] WARN xslt/xslt.c Error checking for stylesheet file "./web/status-json.xslt": No such file or directory
+[2020-10-03  12:58:49] EROR xslt/xslt.c problem reading stylesheet "./web/status-json.xslt"
+[2020-10-03  14:18:54] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:18:54] INFO yp/yp.c YP update thread started
+[2020-10-03  14:18:54] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:18:54] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:18:54] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:18:54] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:18:54] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:18:54] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:18:54] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:18:54] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:18:54] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:18:54] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:18:54] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:18:54] INFO source/source.c listener count on /source.mp3 now 1
+[2020-10-03  14:19:49] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:19:49] INFO yp/yp.c YP update thread started
+[2020-10-03  14:19:49] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:19:49] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:19:49] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:19:49] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:19:49] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:19:49] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:19:49] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:19:49] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:19:49] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:19:49] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:19:49] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:19:49] INFO source/source.c listener count on /source.mp3 now 1
+[2020-10-03  14:20:04] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:20:04] INFO yp/yp.c YP update thread started
+[2020-10-03  14:20:04] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:20:04] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:20:04] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:20:04] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:04] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:04] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:04] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:04] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:20:04] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:20:04] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:04] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:20:04] INFO source/source.c listener count on /source.mp3 now 1
+[2020-10-03  14:20:14] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:20:14] INFO yp/yp.c YP update thread started
+[2020-10-03  14:20:15] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:20:35] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:20:35] INFO yp/yp.c YP update thread started
+[2020-10-03  14:20:35] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:20:51] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:20:51] INFO yp/yp.c YP update thread started
+[2020-10-03  14:20:51] INFO stats/stats.c stats thread started
+[2020-10-03  14:20:51] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:20:52] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:20:52] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:20:52] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:52] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:52] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:52] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:52] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:20:52] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:20:52] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:20:52] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:21:19] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:21:19] INFO yp/yp.c YP update thread started
+[2020-10-03  14:21:19] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:21:41] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:21:41] INFO yp/yp.c YP update thread started
+[2020-10-03  14:21:41] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:22:22] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:22:22] INFO yp/yp.c YP update thread started
+[2020-10-03  14:22:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:23:14] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:23:14] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:23:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:23:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:23:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:23:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:23:14] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:23:14] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:23:14] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:23:14] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:24:15] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:24:15] INFO yp/yp.c YP update thread started
+[2020-10-03  14:24:15] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:24:15] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:24:15] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:24:15] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:24:15] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:24:15] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:24:15] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:24:15] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:24:15] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:24:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:24:16] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:24:53] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:24:53] INFO yp/yp.c YP update thread started
+[2020-10-03  14:24:53] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:25:07] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:25:07] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:25:07] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:25:07] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:25:07] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:25:07] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:25:07] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:25:07] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:25:08] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:25:08] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:27:06] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:27:06] INFO yp/yp.c YP update thread started
+[2020-10-03  14:27:06] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:27:06] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:27:06] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:27:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:27:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:27:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:27:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:27:06] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:27:06] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-03  14:27:06] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:27:06] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  14:28:39] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:28:39] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - Music Club"
+[2020-10-03  14:28:39] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:15] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  14:29:15] INFO yp/yp.c YP update thread started
+[2020-10-03  14:29:15] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  14:29:16] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  14:29:16] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  14:29:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:16] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  14:29:16] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - Music Club"
+[2020-10-03  14:29:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  14:29:16] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  15:43:39] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  15:43:39] INFO stats/stats.c stats thread started
+[2020-10-03  15:43:39] INFO yp/yp.c YP update thread started
+[2020-10-03  15:43:39] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  15:45:21] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  15:45:21] INFO yp/yp.c YP update thread started
+[2020-10-03  15:45:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  15:45:30] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  15:45:30] INFO yp/yp.c YP update thread started
+[2020-10-03  15:45:30] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  15:56:34] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  15:56:34] INFO yp/yp.c YP update thread started
+[2020-10-03  15:56:35] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  16:00:16] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-03  16:00:16] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-03  16:00:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  16:00:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  16:00:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  16:00:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  16:00:16] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-03  16:00:16] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - Music Club"
+[2020-10-03  16:00:16] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-03  16:00:16] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-03  16:00:42] INFO source/source.c End of Stream /source.mp3
+[2020-10-03  16:00:42] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
+[2020-10-03  16:25:14] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  16:25:14] INFO yp/yp.c YP update thread started
+[2020-10-03  16:25:14] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  16:58:51] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  16:58:51] INFO yp/yp.c YP update thread started
+[2020-10-03  16:58:52] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:42:15] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:42:15] INFO yp/yp.c YP update thread started
+[2020-10-03  17:42:16] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:44:26] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:44:26] INFO yp/yp.c YP update thread started
+[2020-10-03  17:44:26] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:47:08] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:47:08] INFO yp/yp.c YP update thread started
+[2020-10-03  17:47:08] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:48:35] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:48:35] INFO yp/yp.c YP update thread started
+[2020-10-03  17:48:35] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:49:31] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:49:31] INFO yp/yp.c YP update thread started
+[2020-10-03  17:49:31] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:59:21] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:59:21] INFO yp/yp.c YP update thread started
+[2020-10-03  17:59:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  17:59:36] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  17:59:36] INFO yp/yp.c YP update thread started
+[2020-10-03  17:59:36] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:00:34] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:00:34] INFO yp/yp.c YP update thread started
+[2020-10-03  18:00:34] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:01:21] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:01:21] INFO yp/yp.c YP update thread started
+[2020-10-03  18:01:21] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:11:09] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:11:09] INFO yp/yp.c YP update thread started
+[2020-10-03  18:11:09] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:11:52] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:11:52] INFO stats/stats.c stats thread started
+[2020-10-03  18:11:52] INFO yp/yp.c YP update thread started
+[2020-10-03  18:11:52] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:12:07] INFO stats/stats.c stats thread started
+[2020-10-03  18:12:07] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:12:07] INFO yp/yp.c YP update thread started
+[2020-10-03  18:12:07] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:12:30] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:12:30] INFO stats/stats.c stats thread started
+[2020-10-03  18:12:30] INFO yp/yp.c YP update thread started
+[2020-10-03  18:12:30] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:13:15] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:13:15] INFO stats/stats.c stats thread started
+[2020-10-03  18:13:15] INFO yp/yp.c YP update thread started
+[2020-10-03  18:13:15] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:14:01] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:14:01] INFO yp/yp.c YP update thread started
+[2020-10-03  18:14:01] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:14:15] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:14:15] INFO yp/yp.c YP update thread started
+[2020-10-03  18:14:15] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:15:37] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:15:37] INFO yp/yp.c YP update thread started
+[2020-10-03  18:15:37] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-03  18:23:22] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-03  18:23:22] INFO yp/yp.c YP update thread started
+[2020-10-03  18:23:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  15:28:52] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  15:28:52] INFO yp/yp.c YP update thread started
+[2020-10-04  15:28:52] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  15:30:42] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  15:30:42] INFO yp/yp.c YP update thread started
+[2020-10-04  15:30:42] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  15:31:08] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  15:31:08] INFO yp/yp.c YP update thread started
+[2020-10-04  15:31:09] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  16:46:08] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  16:46:08] INFO yp/yp.c YP update thread started
+[2020-10-04  16:46:08] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  16:49:55] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  16:49:55] INFO stats/stats.c stats thread started
+[2020-10-04  16:49:55] INFO yp/yp.c YP update thread started
+[2020-10-04  16:49:55] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  16:52:49] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  16:52:49] INFO yp/yp.c YP update thread started
+[2020-10-04  16:52:49] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  17:13:39] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  17:13:39] INFO yp/yp.c YP update thread started
+[2020-10-04  17:13:40] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  17:14:18] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  17:14:18] INFO yp/yp.c YP update thread started
+[2020-10-04  17:14:19] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  17:15:01] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  17:15:01] INFO yp/yp.c YP update thread started
+[2020-10-04  17:15:01] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  17:18:46] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-04  17:18:46] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-04  17:18:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:18:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:18:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:18:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:18:46] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  17:18:46] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status/Kabaka Pyramid/Ms. Dynamite - Murder Music (SHY FX Remix)"
+[2020-10-04  17:18:47] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:18:47] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-04  17:19:25] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  17:19:25] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Loa"
+[2020-10-04  17:19:25] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  17:20:26] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  17:20:26] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Chase & Status - Music Club"
+[2020-10-04  17:20:26] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:22] INFO main/main.c Icecast 2.4.4 server started
+[2020-10-04  19:00:22] INFO yp/yp.c YP update thread started
+[2020-10-04  19:00:22] INFO connection/connection.c No SSL capability on any configured ports
+[2020-10-04  19:00:27] INFO connection/connection.c Source logging in at mountpoint "/source.mp3" from 127.0.0.1
+[2020-10-04  19:00:27] WARN format/format.c Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2020-10-04  19:00:27] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:27] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:27] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:27] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:27] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:00:27] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Camo & Krooked - Turn Up (The Music) (Pola & Bryson Remix)"
+[2020-10-04  19:00:27] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:00:27] INFO source/source.c listener count on /source.mp3 now 0
+[2020-10-04  19:07:00] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:07:00] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "The Caracal Project - This World Stopped"
+[2020-10-04  19:07:00] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:09:33] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:09:33] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Lit Lords - Pleasure"
+[2020-10-04  19:09:33] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:12:19] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:12:19] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Feed Me - Count My Blessings"
+[2020-10-04  19:12:19] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:15:23] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:15:23] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Dennis Pedersen/Rino/Ella Noël/Maduk - Miles Apart (Fox Stevenson Remix)"
+[2020-10-04  19:15:23] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:17:35] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:17:35] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Razlom - Deface"
+[2020-10-04  19:17:36] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:21:46] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:21:46] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Andy C - Back & Forth"
+[2020-10-04  19:21:46] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:23:08] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:23:08] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Kasra - Focus On The Love"
+[2020-10-04  19:23:08] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:24:58] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:24:58] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Entita - Medication"
+[2020-10-04  19:24:58] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:28:39] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:28:39] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Urbandawn/Tyson Kelly - Come Together"
+[2020-10-04  19:28:39] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:30:40] INFO admin/admin.c Received admin command metadata on mount "/source.mp3"
+[2020-10-04  19:30:40] INFO admin/admin.c Metadata on mountpoint /source.mp3 changed to "Unglued/MC Conrad - Born In '94"
+[2020-10-04  19:30:40] WARN stats/stats.c No charset found for "ISO8859-1"
+[2020-10-04  19:35:17] INFO source/source.c End of Stream /source.mp3
+[2020-10-04  19:35:17] INFO source/source.c Source from 127.0.0.1 at "/source.mp3" exiting
