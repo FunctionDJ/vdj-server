@@ -2,7 +2,7 @@ import { OS2LServer } from "os2l"
 
 export default async (io: SocketIO.Server, port: number, doPublish: boolean) => {
   const os2lServer = new OS2LServer({ port, doPublish })
-  
+
   os2lServer.on("error", console.error)
   
   os2lServer.on("beat", data => {
