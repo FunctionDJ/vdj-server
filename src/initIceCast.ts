@@ -40,6 +40,13 @@ export default async ({
     }
   
     check()
+
+    // send current track on connect
+    io.on("connect", () => {
+      if (lastTitle !== "") {
+        io.emit("title", lastTitle)
+      }
+    })
   })
   
   iceCast.stdout.on("data", data => onData(String(data)))
